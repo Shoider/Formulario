@@ -1,14 +1,14 @@
-\newcommand{\NOMBRE}{PruebaRoutes}
-\newcommand{\PUESTO}{Si}
-\newcommand{\UA}{1212}
-\newcommand{\ID}{1515}
-\newcommand{\EXT}{19181}
-\newcommand{\CORREO}{brandon@correo.com}
-\newcommand{\MARCA}{Si}
-\newcommand{\MODELO}{Model}
-\newcommand{\SERIE}{1231Fsddf12}
-\newcommand{\MACADDRESS}{11:11:11:11:12}
-\newcommand{\NOMBREJEFE}{Ei}
-\newcommand{\PUESTOJEFE}{Si}
-\newcommand{\SERVICIOS}{Service}
-\newcommand{\JUSTIFICACION}{justifico}
+\newcommand{\NOMBRE}{Graciela}
+\newcommand{\PUESTO}{soporte a telefonía}
+\newcommand{\UA}{GTIC}
+\newcommand{\ID}{123}
+\newcommand{\EXT}{4116}
+\newcommand{\CORREO}{graciela.sanchez@conagua.gob.mx}
+\newcommand{\MARCA}{Lenovo}
+\newcommand{\MODELO}{767yuh}
+\newcommand{\SERIE}{hfgyugukhk8976786098}
+\newcommand{\MACADDRESS}{hghkjkghkhg}
+\newcommand{\NOMBREJEFE}{isaac frias}
+\newcommand{\PUESTOJEFE}{jefe}
+\newcommand{\SERVICIOS}{seguridad}
+\newcommand{\JUSTIFICACION}{porque soy jefa}

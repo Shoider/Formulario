@@ -13,3 +13,5 @@ nombre,puesto,ua,id,extension,correo,marca,modelo,serie,macadress,jefe,puestojef
 Brandon HS,Empleado,No se,12,4241,brandon@hotmail.com,Marcas,Modelos,1212FDSAD34234,12:12:12:12:12,Jefazo,El jefe,Todos,No sirve
 nombre,puesto,ua,id,extension,correo,marca,modelo,serie,macadress,jefe,puestojefe,servicios,justificacion
 PruebaRoutes,Si,1212,1515,19181,brandon@correo.com,Si,Model,1231Fsddf12,11:11:11:11:12,Ei,Si,Service,justifico
+nombre,puesto,ua,id,extension,correo,marca,modelo,serie,macadress,jefe,puestojefe,servicios,justificacion
+Graciela,soporte a telefonía,GTIC,123,4116,graciela.sanchez@conagua.gob.mx,Lenovo,767yuh,hfgyugukhk8976786098,hghkjkghkhg,isaac frias,jefe,seguridad,porque soy jefa
