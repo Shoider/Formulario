@@ -1,0 +1,14 @@
+\newcommand{\NOMBRE}{PruebaRoutes}
+\newcommand{\PUESTO}{Si}
+\newcommand{\UA}{1212}
+\newcommand{\ID}{1515}
+\newcommand{\EXT}{19181}
+\newcommand{\CORREO}{brandon@correo.com}
+\newcommand{\MARCA}{Si}
+\newcommand{\MODELO}{Model}
+\newcommand{\SERIE}{1231Fsddf12}
+\newcommand{\MACADDRESS}{11:11:11:11:12}
+\newcommand{\NOMBREJEFE}{Ei}
+\newcommand{\PUESTOJEFE}{Si}
+\newcommand{\SERVICIOS}{Service}
+\newcommand{\JUSTIFICACION}{justifico}
